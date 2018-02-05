@@ -1,12 +1,14 @@
 During My 100 days of code challenge I will be attempting to complete the entire FreeCodeCamp curriculum!
 
-Day 1: Worked On FreeCodeCamp sections 183 to 202. Learned about Arrays, Objects and the Math.Random() function.
+Day 1 - Jan.31, 2018: Worked On FreeCodeCamp sections 183 to 202. Learned about Arrays, Objects and the Math.Random() function.
 
-Day 2: FreeCodeCamp sections 202 to 223. Learned more about Arrays, specifically functions like :
+Day 2 - Feb.1, 2018: FreeCodeCamp sections 202 to 223. Learned more about Arrays, specifically functions like :
   - split, reduce, filter, sort, reverse, concat, join, and map.
   also went through regular expressions. (Still need to read more on them to understand more).
   I have now started the section of algorithm challenges!
 
-Day 3: FreeCodeCamp sections 223 to 232. Completed more of the challenges, currently stuck on checking whether all characters of one array index exist in another. I am more stuck on words that are in reverse. (perhaps i will have to reverse or sort).
+Day 3 - Feb.2, 2018: FreeCodeCamp sections 223 to 232. Completed more of the challenges, currently stuck on checking whether all characters of one array index exist in another. I am more stuck on words that are in reverse. (perhaps i will have to reverse or sort).
 
-Day 4: FreeCodeCamp sections 232 to 240. Finished the algorithm challenge and started the section on JSON and ajax requests using jQuery. 
+Day 4 - Feb.3, 2018: FreeCodeCamp sections 232 to 240. Finished the algorithm challenge and started the section on JSON and ajax requests using jQuery.
+
+Day 5 - Feb.4, 2018: FreeCodeCamp sections 240 to 247. Finished the JSON section and move on the the first intermediate project, the random quote generator. Still need to figure out how to escape some characters when passing them to twitter API! Other than that the project was completed today!
