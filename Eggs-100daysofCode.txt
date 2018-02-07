@@ -1,4 +1,4 @@
-# My goals: Complete Udemy course - Javascript the wierd parts.
+# My goals: Complete Udemy course - Javascript the weird parts.
 # - start using GitHub every day.
 # - read Speaking Javascript by Dr. Axel Raushmayer
 # - Watch You Tube series on Underscores (23 videos), write tests to try out each function.
