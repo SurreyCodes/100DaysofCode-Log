@@ -26,3 +26,6 @@ Day 7 - Feb.6, 2018:
 
 Day 8 - Feb.7th, 2018:
     FreeCodeCamp section 257. Finished the Wikipedia Viewer project. Figured out how to setup CORS and pull in the data required to complete the challenge. I decided to do the challenge in React to get more practice and keep my existing knowledge of it relevant. Now onto the TwitchTV JSON API challenge. Will also attempt to complete it in React :)
+
+Day 9 - Feb.8th, 2018:
+    FreeCodeCamp section 258. Started working on the TwitchTv Project. I decided to add more than what is required functionally so that I could push myself a little further to gain more knowledge and understanding. Got the app pulling all the data I need, now I am excited to style it all!
