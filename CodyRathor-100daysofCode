@@ -29,3 +29,6 @@ Day 8 - Feb.7th, 2018:
 
 Day 9 - Feb.8th, 2018:
     FreeCodeCamp section 258. Started working on the TwitchTv Project. I decided to add more than what is required functionally so that I could push myself a little further to gain more knowledge and understanding. Got the app pulling all the data I need, now I am excited to style it all!
+
+Day 10 - Feb.9th, 2018:
+    FreeCodeCamp section 258. Found out I had programmed some functions against the standards of React. Started reading more documentation on componentDidMount as well as other built in methods. Have to redo some of the code in order to correct the issue. Got most of the styling done. just have to propgram an online-offline status signal and add the functionality for showing Online only, Offline only and All.
