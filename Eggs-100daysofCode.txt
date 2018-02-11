@@ -5,17 +5,23 @@
 #   Each lesson's tests are posted to github.
 #   Get back on track with FCC - continue section on algorithms.
 #
-Day 01-05: Udemy Course: Javascript the wierd parts all week.
+Day 01-05: Udemy Course: Javascript the weird parts all week.
            Watched several videos on using github.
            Underscores Video01 - using first, initial, last, and rest functions
            Underscores Video02 - using compact and flatten
            Underscores Video03 - using without, union, intersection, and difference
            Underscores Video04 - using uniq functions
            Underscores Video05 - using zip, object, and range functions.
-Day 06-10  Udemy Course: Javascript the wierd parts all week.
+Day 06-10  Udemy Course: Javascript the weird parts all week.
            Underscores Video 06 - using indexOf, lastIndexOf, and sortedIndex functions.
            Underscores Video 07 - using the map function.
            spent 2 days transferring data from my old computer to my new computer and
            reinstalling programs, plugins, extensions, resetting passwords, etc.
-           
+Day 11-15  Udemy Course: Javascript the weird parts all week.
+           Underscores Video 08 - using reduce function.
+           Underscores Video 09 - using find and filter functions.
+           Underscores Video 10 - using contains function.
+		   Reinstall node and npm on new computer.
+		   Install via npm jsdoc and test how it creates documentation from .js files
+           FCC Basic Algorithm challenges: Find longest Word in a String, Title Case a Sentence
            
