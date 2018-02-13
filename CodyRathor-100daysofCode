@@ -1,6 +1,38 @@
 During My 100 days of code challenge I will be attempting to complete the entire FreeCodeCamp curriculum!
 
-Day 12 - Feb.11th. 2018:
+Day 13 - Feb.12th, 2018:
+    FreeCodeCamp section 262 to 263. Took awhile but I finally cracked the algorithm to check an array of properties against another argument. Code below =>
+
+    function whatIsInAName(collection, source) {
+  // What's in a name?
+  var arr = [];
+  var i;
+  // Only change code below this line
+  var sourceArr = Object.keys(source);
+  if (sourceArr.length > 1){
+    for (i=0; i<collection.length; i++){
+      if (collection[i].hasOwnProperty(sourceArr[0]) && collection[i].hasOwnProperty(sourceArr[1]) && collection[i][sourceArr[0]] === source[sourceArr[0]] && collection[i][sourceArr[1]] === source[sourceArr[1]]){
+      arr.push(collection[i]);
+      }
+    }
+  } else{
+    for (i=0; i<collection.length; i++){
+      if (collection[i].hasOwnProperty(sourceArr[0]) && collection[i][sourceArr[0]] === source[sourceArr[0]]){
+      arr.push(collection[i]);
+      }
+    }
+  }
+
+  // Only change code above this line
+  return arr;
+}
+
+whatIsInAName([{ first: "Romeo", last: "Montague" }, { first: "Mercutio", last: null }, { first: "Tybalt", last: "Capulet" }], { last: "Capulet" });
+
+It took me about 5 hours of writing code and pondering different ways to do it while keeping the line count down. If anyone else is reading my progress and has a better solution than the one above please PM me with the answer!
+
+
+Day 12 - Feb.11th, 2018:
     FreeCodeCamp sections 259 to 262. Struggled for about 5 hours on the Roman Numeral algorithm challenge before finally admitting defeat. My code was over 100 lines long and was by no means efficient. after viewing the answer, I made sure to read it and understand it before moving on. Today is the first day of 100DaysOfCode that I had to use a lifeline.
 
 Day 11 - Feb.10th, 2018:
