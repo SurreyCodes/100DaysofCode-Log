@@ -1,5 +1,8 @@
 During My 100 days of code challenge I will be attempting to complete the entire FreeCodeCamp curriculum!
 
+Day 14 - Feb.13th, 2018:
+    FreeCodeCamp sections 263 to 266. Made it to the missing letters algorithm. I have tried a few different ways of attacking the problem. however I keep hitting a snag with character that are the final letter. they produce a NaN by default and I am having issues figuring out how to solve it. Tomorrow is a new day! Perhaps fresh eyes will help.
+
 Day 13 - Feb.12th, 2018:
     FreeCodeCamp section 262 to 263. Took awhile but I finally cracked the algorithm to check an array of properties against another argument. Code below =>
 
