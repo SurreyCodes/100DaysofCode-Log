@@ -1,5 +1,17 @@
 During My 100 days of code challenge I will be attempting to complete the entire FreeCodeCamp curriculum!
 
+Day 17 - Feb.16th, 2018:
+    FreeCodeCamp section 270. Completed the algorithm challenge after about 3 hours of reading and attempting different methods. Finally made something that worked after many attempts. here is the code ->
+
+    function spinalCase(str) {
+
+      str = str.replace(/([-_\s])/g, "_");
+      str = str.replace(/([A-Z])/g, "_$1");
+
+      return str.split("_").filter(function(val){return val !== "";}).join("-").toLowerCase();
+    }
+    Weekend has arrived. time to hit these challenges hard! and possibly work on a landing page for SurreyCodes if Luis has time to design it.
+
 Day 16 - Feb.15th,2018:
     FreeCodeCamp sections 268 to 270. Algorithms are getting harder now. spent sometime reading about regex. was able to get through one of the challenges, sadly the day has run late. time to rest and look at it with fresh eyes tomorrow. Also had a meeting today about the Surreycodes foundation, excited to see the outcome of the foundation.
 
