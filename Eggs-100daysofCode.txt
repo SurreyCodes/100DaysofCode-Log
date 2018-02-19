@@ -21,7 +21,10 @@ Day 11-15  Udemy Course: Javascript the weird parts all week.
            Underscores Video 08 - using reduce function.
            Underscores Video 09 - using find and filter functions.
            Underscores Video 10 - using contains function.
-		   Reinstall node and npm on new computer.
-		   Install via npm jsdoc and test how it creates documentation from .js files
+           - Reinstall node and npm on new computer.
+           - Install via npm jsdoc and test how it creates documentation from .js files
            FCC Basic Algorithm challenges: Find longest Word in a String, Title Case a Sentence
-           
+Day 16-20  Udemy Course: Javascript the weird parts all week.
+           FCC: Basic Algorithms: Return Largest Numbers in Array, Confirm the Ending,
+                Repeat a String, Truncate a String, Chunky Monkey, Slasher Flick, Mutations,
+                Falsy Bouncer, Seek and Destroy.           
