@@ -1,8 +1,11 @@
 During My 100 days of code challenge I will be attempting to complete the entire FreeCodeCamp curriculum!
 
-Day 21 - Feb.19th, 2018:
-    FreeCodeCamp section 282. Stuck on this algorithm. can solve it for 2 arrays, but once there is a third array my current code fails. Time to go watch Black Panther! and of course mull over some ideas for how to correct my code.
+Day 22 - Feb.21st, 2018:
+    FreeCodeCamp section 282 to 283. Finally solved the symmetrical difference algorithm. had to build a function that took two arrays and looped eachother for differences returning one result that could then be looped with another array if one existed. Onto the Exact Change challenge!
     
+Day 21 - Feb.20th, 2018:
+    FreeCodeCamp section 282. Stuck on this algorithm. can solve it for 2 arrays, but once there is a third array my current code fails. Time to go watch Black Panther! and of course mull over some ideas for how to correct my code.
+
 Day 20 - Feb.19th, 2018:
     FreeCodeCamp sections 280 to 282. Solved the regex expression for US telephone numbers. Found a great resource for creating them -> https://regexr.com/
     afterwards I completed the algorithm for updating objects by either adding to them or deleting from them, based on the data provided.
