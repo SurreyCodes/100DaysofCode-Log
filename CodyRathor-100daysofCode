@@ -1,5 +1,8 @@
 During My 100 days of code challenge I will be attempting to complete the entire FreeCodeCamp curriculum!
 
+Day 23 - Feb.22nd, 2018:
+    FreeCodeCamp section 283. Currently stuck on the how to best store the data for easy iteration when calculating Exact Change. I have the first 2 parts of the algorithm complete.
+
 Day 22 - Feb.21st, 2018:
     FreeCodeCamp section 282 to 283. Finally solved the symmetrical difference algorithm. had to build a function that took two arrays and looped eachother for differences returning one result that could then be looped with another array if one existed. Onto the Exact Change challenge!
 
