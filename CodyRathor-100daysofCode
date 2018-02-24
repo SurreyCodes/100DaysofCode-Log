@@ -1,5 +1,70 @@
 During My 100 days of code challenge I will be attempting to complete the entire FreeCodeCamp curriculum!
 
+Day 24 - Feb.23rd, 2018:
+    Finished the Exact Change algorithm. took a while but I was able to crack it!
+    code below ->
+
+    function checkCashRegister(price, cash, cid) {
+      var change = cash - price;
+      var cashOnHand = 0;
+
+      var currency = [
+        { name: 'ONE HUNDRED', val: 100.00},
+        { name: 'TWENTY', val: 20.00},
+        { name: 'TEN', val: 10.00},
+        { name: 'FIVE', val: 5.00},
+        { name: 'ONE', val: 1.00},
+        { name: 'QUARTER', val: 0.25},
+        { name: 'DIME', val: 0.10},
+        { name: 'NICKEL', val: 0.05},
+        { name: 'PENNY', val: 0.01},
+      ];
+
+      // adds each amount of currency in the drawer
+      for (var i in cid.reverse()){
+        currency[i].amount = cid[i][1];
+        cashOnHand += cid[i][1];
+      }
+
+      // takes obvious insufficient funds
+      if (cashOnHand < change){
+        return "Insufficient Funds";
+      } else if (cashOnHand === change){
+        return "Closed";
+      } else{
+        change = getChange(change, currency);
+      }
+      // Here is your change, ma'am.
+      return change;
+      }
+
+      function getChange(amount, arr){
+
+      var change_arr = [];
+      for (var i in arr){
+        var currentChange = 0;
+        while (arr[i].amount > 0 && arr[i].val <= amount){
+
+          currentChange += arr[i].val;
+          arr[i].amount -= arr[i].val;
+          amount -= arr[i].val;
+          amount = Math.round(amount * 100) / 100;
+        }
+        if (currentChange > 0){
+          currentChange = Math.round(currentChange * 100) / 100;
+          change_arr.push([arr[i].name, currentChange]);
+        }
+      }
+      if(amount !==0){
+        return "Insufficient Funds";
+      }
+      return change_arr;
+}
+
+checkCashRegister(19.50, 20.00, [["PENNY", 1.01], ["NICKEL", 2.05], ["DIME", 3.10], ["QUARTER", 4.25], ["ONE", 90.00], ["FIVE", 55.00], ["TEN", 20.00], ["TWENTY", 60.00], ["ONE HUNDRED", 100.00]]);
+
+Having to rounding the amount tripped me up for a very long time, also accidentally compared arr[i].amount instead of .val and that sent me on a wild goose chase! The joys of learning :P
+
 Day 23 - Feb.22nd, 2018:
     FreeCodeCamp section 283. Currently stuck on the how to best store the data for easy iteration when calculating Exact Change. I have the first 2 parts of the algorithm complete.
 
