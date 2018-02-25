@@ -1,5 +1,43 @@
 During My 100 days of code challenge I will be attempting to complete the entire FreeCodeCamp curriculum!
 
+Day 25 - Feb.24th, 2018:
+    Finished the Update Inventory algorithm. I knew I had to use a sort function at the very end but was hard pressed in finding a solution that worked until I came across one on stackoverflow (where would we be without stackoverflow.. :P). solution here ->
+
+    function updateInventory(arr1, arr2) {
+    // All inventory must be accounted for or you're fired!
+    arr2.forEach((newItem, newIndex) => {
+        arr1.forEach((currItem, index) => {
+          if (newItem[1] === currItem[1]){
+            arr1[index][0] += newItem[0];
+          }
+        });
+      if(!checkArray(arr1, newItem[1])){
+        arr1.push(arr2[newIndex]);
+        }
+    });
+
+  function checkArray(arr, value){
+    var bool = false;
+    arr.forEach((item)=>{
+      if(item[1] === value){
+        bool = true;
+      }
+    });
+    return bool;
+  }
+
+    return arr1.sort(function(a, b){
+      var A=a[1].toLowerCase(), B=b[1].toLowerCase();
+      if (A < B) //sort string ascending
+      return -1;
+      if (A > B)
+      return 1;
+      return 0; //default return value (no sorting)
+      });
+}
+
+Wish me luck with the next challenge!
+
 Day 24 - Feb.23rd, 2018:
     Finished the Exact Change algorithm. took a while but I was able to crack it!
     code below ->
