@@ -1,8 +1,62 @@
 During My 100 days of code challenge I will be attempting to complete the entire FreeCodeCamp curriculum!
 
+Day 28 - Feb.27th, 2018:
+    Almost solved the 'no repeats' on FreeCodeCamp. have it creating the permutations, just need to filter out the doubles and return the results. should be too hard provided I am in fact making the correct permutations :P
+    
+Day 27 - Feb.26th, 2018:
+    Attempted to solve the no repeats with pure math while trying to avoid creating an array and using regex. found that the only way was to program each separate solution in and that is not efficient. So to the drawing board I went. have most of the code working, still need to figure out how to truly randomize the letters. here is the code so far ->
+
+function permAlone(str) {
+  var permutations = factorial(str.length);
+  var count = 0;
+  var arr = [];
+  var perms = [];
+  var offset = 0;
+
+  while(count < permutations){
+
+    var temp = [];
+    for( var i=0; i < str.length; i++) {
+      var pointer = (i + offset) % str.length;
+      temp.push(str[pointer]);
+    }
+   arr.push(temp);
+   offset++;
+   count++;
+ }
+
+
+  arr.forEach(function(item){
+    var res = 1;
+    for(var i=0; i<item.length; i++){
+      if(item[i] === item[i+1]){
+        res = 0;
+        continue;
+      }
+    }
+    perms.push(res);
+  });
+
+
+  console.log(perms.reduce(function(a,b){return a+b;}));
+  return perms.reduce(function(a,b){return a+b;});
+}
+
+
+permAlone('aabb');
+
+function factorial(num){
+  for (var i=num-1; i>0; i--){
+    num *= i;
+  }
+  return num;
+}
+
+Wish me luck as I continue down the path to Front End Developer!!! counting down the days til I get to do projects again!!
+
 Day 26 - Feb.25th, 2018:
     Read about permutations trying to figure out how to do the math for the current FreeCodeCamp algorithm 'no repeats please'.
-    
+
 Day 25 - Feb.24th, 2018:
     Finished the Update Inventory algorithm. I knew I had to use a sort function at the very end but was hard pressed in finding a solution that worked until I came across one on stackoverflow (where would we be without stackoverflow.. :P). solution here ->
 
