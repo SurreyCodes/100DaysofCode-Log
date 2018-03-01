@@ -1,8 +1,13 @@
 During My 100 days of code challenge I will be attempting to complete the entire FreeCodeCamp curriculum!
 
+Day 29 - Feb.28th, 2018:
+    Solved the 'no repeats'! took me a long time to spot my mistake.. ended up having heapPerm(size - i) instead of (size - 1). Literally put my code into an infinite loop. Sometimes I wonder how old systems use to handle infinite loops, can only imagine how brutal it would have been trying to debug :P
+    Anyways also passed the challenge of method inside closures, basically a class with methods in my opinion.
+    Currently tackling the 'Map the Debris' challenge. Math Math Math!
+    
 Day 28 - Feb.27th, 2018:
     Almost solved the 'no repeats' on FreeCodeCamp. have it creating the permutations, just need to filter out the doubles and return the results. should be too hard provided I am in fact making the correct permutations :P
-    
+
 Day 27 - Feb.26th, 2018:
     Attempted to solve the no repeats with pure math while trying to avoid creating an array and using regex. found that the only way was to program each separate solution in and that is not efficient. So to the drawing board I went. have most of the code working, still need to figure out how to truly randomize the letters. here is the code so far ->
 
