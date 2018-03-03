@@ -4,6 +4,7 @@
 # - Watch You Tube series on Underscores (23 videos), write tests to try out each function.
 #   Each lesson's tests are posted to github.
 #   Get back on track with FCC - continue section on algorithms.
+#   Run JSPerf tests on my FCC algorithms and other algorithms posted.
 #
 Day 01-05: Udemy Course: Javascript the weird parts all week.
            Watched several videos on using github.
@@ -27,4 +28,21 @@ Day 11-15  Udemy Course: Javascript the weird parts all week.
 Day 16-20  Udemy Course: Javascript the weird parts all week.
            FCC: Basic Algorithms: Return Largest Numbers in Array, Confirm the Ending,
                 Repeat a String, Truncate a String, Chunky Monkey, Slasher Flick, Mutations,
-                Falsy Bouncer, Seek and Destroy.           
+                Falsy Bouncer, Seek and Destroy. 
+Day 21-25  Udemy Course: Javascript the weird parts (put on hold this week)
+           FCC: Basic Algorithms: Where Do I Belong, Caesar's Ciphper
+           FCC: Intermediate Algorithms: Sum All Numbers in a Range, Diff Two Arrays, 
+                Roman Numeral Converter, Wherefore art thou,
+           Underscores Video 11 - using reject, some, and every functions.
+           Underscores Video 12 - using invoke.  Note: map can be used as an alternative.
+           Underscores Video 13 - using pluck, and shuffle. (pluck handy for object prop values)
+           Refactoring code in my reaction tester project.
+Day 26-30  Udemy Course: Javascript the weird parts (put on hold this week)
+           This week is consumed by doing some analysis before I put together quote on a possible 2-3
+            month project that involves creating a estimating system independent of their Mat Mgmt Sys. 
+           Underscores Video 14,15,16,17 - using each, where, findWhere, min, max, groupBy.
+           FCC: Intermediate Algorithms: What Is In A Name, Search And Replace, Pig Latin, DNA Pairing,
+            Missing Letters, Boo who, Sortend Union.
+
+
+             
