@@ -1,8 +1,47 @@
 During My 100 days of code challenge I will be attempting to complete the entire FreeCodeCamp curriculum!
 
+Day 31 - March 2nd, 2018:
+    Finished 'pairwise' on FreeCodeCamp and finally made it to the last 4 projects!! excited to finish this and get my Front End certificate!
+    Code Below >>
+
+    function pairwise(arr, arg) {
+      var results = [];
+      for (var i=0; i<arr.length; i++){
+          var a = arr[i];
+        for (var j=i+1; j<arr.length; j++){
+          if(a + arr[j] === arg){
+            console.log(j,"  ", results.indexOf(j));
+            if(results.indexOf(i) === -1 && results.indexOf(j) === -1){
+              results.push(i, j);
+            }
+          }
+        }
+      }
+      if (results.length === 0){
+        return 0;
+      }
+      return results.reduce(function(a,b){return a+b;});
+    }
+
 Day 30 - March 1st, 2018:
     Finished the 'Map the debris' challenge and onto 'pairwise'. Last challenge before the projects begin!! Can't Wait to get started! Also side note found out today that the company I currently work for is closing in 2 months, looks like the time is now to start looking for Front End Developer jobs! pair wise is currently presenting a weird challenge for me can't see to figure out how to sum the indices correctly.
-    
+    Code Below >>
+
+    function orbitalPeriod(arr) {
+
+      var GM = 398600.4418;
+      var earthRadius = 6367.4447;
+      var result = [];
+
+      for (var i=0; i<arr.length; i++){
+        var orbitalPeriod = Math.round(2 * Math.PI * Math.sqrt(Math.pow((earthRadius + arr[i].avgAlt), 3)/GM));
+        result.push({name: arr[i].name, orbitalPeriod: orbitalPeriod});
+      }
+
+      return result;
+    }
+
+
 Day 29 - Feb.28th, 2018:
     Solved the 'no repeats'! took me a long time to spot my mistake.. ended up having heapPerm(size - i) instead of (size - 1). Literally put my code into an infinite loop. Sometimes I wonder how old systems use to handle infinite loops, can only imagine how brutal it would have been trying to debug :P
     Anyways also passed the challenge of method inside closures, basically a class with methods in my opinion.
