@@ -1,5 +1,12 @@
 During My 100 days of code challenge I will be attempting to complete the entire FreeCodeCamp curriculum!
 
+Day 32 - March 3rd, 2018:
+    Started a CSS grid course on https://courses.wesbos.com. Which helped me get the grid up and running for my JavaScript calculator on FreeCodeCamp. Link below for my code so far >>
+    https://codepen.io/crathor/pen/PQLMrw?editors=0110
+
+    The course so far has gone through display : grid and setting up the colums using px, rem, %, fr (stands for fractional allows the grid spaces to take up space proportional to the fraction ie 1fr 2fr 1fr the 2fr will take up the combine space of the 1fr's).
+    also learned how to place the items in there grids or span extra spaces like I have done in my calculator app.
+
 Day 31 - March 2nd, 2018:
     Finished 'pairwise' on FreeCodeCamp and finally made it to the last 4 projects!! excited to finish this and get my Front End certificate!
     Code Below >>
