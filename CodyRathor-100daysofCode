@@ -1,5 +1,9 @@
 During My 100 days of code challenge I will be attempting to complete the entire FreeCodeCamp curriculum!
 
+Day 33 - March 4th, 2018:
+    Decided to switch ,y calculator function to React. was a bit of a struggle figuring out how to dynamically render my keypad, but in the end figured it out! Got to love problem solving! code below >>
+    https://codepen.io/crathor/full/jZRjPx/
+
 Day 32 - March 3rd, 2018:
     Started a CSS grid course on https://courses.wesbos.com. Which helped me get the grid up and running for my JavaScript calculator on FreeCodeCamp. Link below for my code so far >>
     https://codepen.io/crathor/pen/PQLMrw?editors=0110
