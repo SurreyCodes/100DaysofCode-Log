@@ -1,7 +1,11 @@
 During My 100 days of code challenge I will be attempting to complete the entire FreeCodeCamp curriculum!
 
+Day 35 - March 6th, 2018:
+    Almost complete the JavaScript calculator, the styling is complete still working out a few bugs, such as being able to add more than one "." to an entered number. Did manage to solve being able to remove the whole number currently entered from the history. Almost there!!
+
 Day 34 - March 5th, 2018:
     Got the Math working, now onto styling and figuring out how to show a rounded answer it seems to work for my history but not for the main display.
+
 Day 33 - March 4th, 2018:
     Decided to switch my calculator function to React. was a bit of a struggle figuring out how to dynamically render my keypad, but in the end figured it out! Got to love problem solving! code below >>
     https://codepen.io/crathor/full/jZRjPx/
