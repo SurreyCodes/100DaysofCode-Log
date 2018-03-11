@@ -1,8 +1,14 @@
 During My 100 days of code challenge I will be attempting to complete the entire FreeCodeCamp curriculum!
 
-Day 36 - 37 Marth 8-9th, 2018:
+Day 39 - March 10th, 2018:
+    I am currently stuck trying to figure out how to format the countdown. have the clock setting the correct seconds. Still need to add a pause feature and have it switch to the breaktime clock once the countdown equals 0. also need to find a sound to play!
+
+Day 38 - March 9th, 2018:
+    Struggling to figure out how to create a countdown. I understand that I have to create a function and set an interval but I can't quite figure out how to render the timer. have most on the style done, Maybe fresh eyes tomorrow will help!
+
+Day 36 - 37 Marth 7-8th, 2018:
     Finished the JavaScript calculator using React. this project was good for learning how to create dynamic elements with react. Started working on the Pomodoro Clock in you guessed it.. React! having way to much fun building with it. I also attended an intro to react-native it was very informative!
-     
+
 Day 35 - March 6th, 2018:
     Almost complete the JavaScript calculator, the styling is complete still working out a few bugs, such as being able to add more than one "." to an entered number. Did manage to solve being able to remove the whole number currently entered from the history. Almost there!!
 
