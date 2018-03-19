@@ -1,8 +1,11 @@
 During My 100 days of code challenge I will be attempting to complete the entire FreeCodeCamp curriculum!
 
+Day 46 - 47, March 17-18th, 2018:
+    Completed the styling of my TicTacToe Game. down to just building the computer. Have to start research on the minimax algorithm to build the computer. The end is coming I can almost taste the certificate!
+
 Day 44 - 45, March 15-16th, 2018:
     Continued on the TicTacToe challenge, once I figured out the best way store my data I was able to make some changes to my code to shorten it up and make it a little easier to read. In doing so I managed to break my function renderButtons, for some reason I have to make it a function that calls each button separately instead of using a map function. may just take it for what it is and try and solve it later, perhaps it's time to use my first //TODO:. So far this game has presented me with the biggest challenge, figuring out how create a computer that plays against you. So far haven't figured it out, I'm currently styling it while brainstorming ideas on how to approach it. I feel like it is really easy and I am just overthinking it.
-    
+
 Day 43 - March 14th, 2018:
     Worked more on the TicTacToe project for FreeCodeCamp and attended a meetup about VR game development. It talked about some of the issues you deal with when create such a game. Some issues were with simulator sickness, dealing with collision objects, room sizes etc. he talked about the unity engine and the community of support it comes with.
 
