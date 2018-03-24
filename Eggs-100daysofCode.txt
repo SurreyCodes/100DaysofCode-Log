@@ -47,7 +47,11 @@ Day 31-35  Udemy Course: Javascript the weird parts (Deep Dive into jQuery - 2 l
            FCC: Intermediate Algorithms: 5 completed, ending with smallest Common Multiple.
 Day 36-40  Udemy Course: Javascript the weird parts. Course complete. I built a mini-framework!
            FCC: Completed Intermediate Algorithms (6 for the week).
-           FCC" Completed Advanced Algorithms (4 for the week).
-           I completed rehauled my resume to a more modern look.
+           FCC: Completed Advanced Algorithms (4 for the week).
+           I rehauled my resume to give it a more modern look.
+Day 41-45: Udemy Course:  WordPress Developer Course -The course is geared to building your own theme.
+           Created 6 php files and 1 css file for starter theme.  
+           Udemy Free Course: Learn RWD from scratch: built a one page fluid website (Brad Traversy is the course instructor. You probably have listened to him many times on You Tube.)
+           FCC: Completed 1 Advanced Algorithm: updateInventory. Stuck on next one: permAlone.
 
              
