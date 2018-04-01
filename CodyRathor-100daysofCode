@@ -1,5 +1,14 @@
 During My 100 days of code challenge I will be attempting to complete the entire FreeCodeCamp curriculum!
 
+Day 60 - March 31st:
+    Started the SurreyCodes landing page this morning with Luis. Did some more work on my simon game for FreeCodeCamp. Can't seem to get a setTimeout to work for delaying the computer when pressing the sequence for the player to follow. Will spend more time tomorrow figuring it out before going to my inlaws for Easter dinner :)
+
+Day 59 - March 30th:
+    Read up on redux and the new React changes in version 16.3, not much coding but plan on a longer day tomorrow!
+
+Day 55,56,57,58 - March 26th - 29th:
+    Started the final project on FreeCodeCamp. This week was busy but I did manage to get some progress on my Simon Game and attended to meetups! Yesterdays Meetup was a react native workshop. The workshop included building a list of movies with an image, title and description. The instructor showed uyou how to use tools and import them into your project. He also introduced my to axios as a way of pulling data from an API. Overall the workshop was a great experience and it allowed me to meet some recruiters and well as network.
+
 Day 49,50,51,52,53,54 - March 20th - 25th:
     Finished the TicTacToe game for FreeCodeCamp! this challenge took me a long time. I had to start from scratch on my logic three times before I finally figured out how to update data correctly in react. It was mostly the computer I struggled with building a simple game with 2 players was a breeze, but when it came to actually implementing the ai I struggled a lot. After watching tutorials on the minmax algorithm and a ton of reading I was finally able to understand how the algorithm works though I'm still not sure its the most efficient sometimes it goes for the double chance to win instead of straight for the win. There was something I cam across about counting how many times the function was being called and subtracting it from the score. Had to ask twitter for help with my final issue of being able to click on the computers turn, which turned out awesome! added a boolean value to the onclick and was able to toggle it. Definitely learned a lot on this one!! well worth the time and effort put in.
 
