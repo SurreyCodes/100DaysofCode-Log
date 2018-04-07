@@ -53,5 +53,7 @@ Day 41-45: Udemy Course:  WordPress Developer Course -The course is geared to bu
            Created 6 php files and 1 css file for starter theme.  
            Udemy Free Course: Learn RWD from scratch: built a one page fluid website (Brad Traversy is the course instructor. You probably have listened to him many times on You Tube.)
            FCC: Completed 1 Advanced Algorithm: updateInventory. Stuck on next one: permAlone.
-
+Day 46-55  Udemy Course:  WordPress Developer Course - Lessons 23 of 102 completed.
+           FCC: Finished Advanced Algorithms section. 4 algorithms.
+           Played around with some TextInputEffects 
              
