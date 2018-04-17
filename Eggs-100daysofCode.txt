@@ -55,5 +55,8 @@ Day 41-45: Udemy Course:  WordPress Developer Course -The course is geared to bu
            FCC: Completed 1 Advanced Algorithm: updateInventory. Stuck on next one: permAlone.
 Day 46-55  Udemy Course:  WordPress Developer Course - Lessons 23 of 102 completed.
            FCC: Finished Advanced Algorithms section. 4 algorithms.
-           Played around with some TextInputEffects 
+           Played around with some TextInputEffects.
+Day 56-61  FCC: spent 3 days losing to setInterval and setTimeout. Could only make it work partially.
+           I switched to using GSAP for my text display timing to complete my 1st project.
+           Terry Fox Tribute: https://s.codepen.io/KerryRuddock/debug/oqrXXv/VJrxxZoKdGJr           
              
