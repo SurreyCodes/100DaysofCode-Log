@@ -58,5 +58,8 @@ Day 46-55  Udemy Course:  WordPress Developer Course - Lessons 23 of 102 complet
            Played around with some TextInputEffects.
 Day 56-61  FCC: spent 3 days losing to setInterval and setTimeout. Could only make it work partially.
            I switched to using GSAP for my text display timing to complete my 1st project.
-           Terry Fox Tribute: https://s.codepen.io/KerryRuddock/debug/oqrXXv/VJrxxZoKdGJr           
+           Terry Fox Tribute: https://s.codepen.io/KerryRuddock/debug/oqrXXv/VJrxxZoKdGJr  
+Day 62-66  Udemy Course: WordPress Developers Course. Completed 7/23: WorkFlow and Automation using gulp.
+           Underscores Videos 18,19,20,21,22,23 - using sample, size, sortBy, indexBy, countBy, partition, 
+           and toArray (This completes the series. https://github.com/KerryRuddock/underscores_tuts)
              
