@@ -62,4 +62,6 @@ Day 56-61  FCC: spent 3 days losing to setInterval and setTimeout. Could only ma
 Day 62-66  Udemy Course: WordPress Developers Course. Completed 7/23: WorkFlow and Automation using gulp.
            Underscores Videos 18,19,20,21,22,23 - using sample, size, sortBy, indexBy, countBy, partition, 
            and toArray (This completes the series. https://github.com/KerryRuddock/underscores_tuts)
-             
+Day 67-80  Udemy Course: Wordpress Developers Course. Complete 12 lessons.
+           My Dad passed away and I took 9 days to create a proper tribute page for him. Can be viewed
+           at http://kerryruddocktesthosting-com.stackstaging.com/tribute/tribute.html
