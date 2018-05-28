@@ -65,3 +65,5 @@ Day 62-66  Udemy Course: WordPress Developers Course. Completed 7/23: WorkFlow a
 Day 67-80  Udemy Course: Wordpress Developers Course. Complete 12 lessons.
            My Dad passed away and I took 9 days to create a proper tribute page for him. Can be viewed
            at http://kerryruddocktesthosting-com.stackstaging.com/tribute/tribute.html
+Day 81-90  Udemy Course: WordPress Developers Course. About 48% course complete and all of my custom post
+            types have been created. Along with custom query relationships with those post types.
